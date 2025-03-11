@@ -1,6 +1,7 @@
 lupenox-agi-core
 
 An experimental Artificial General Intelligence (AGI) framework exploring autonomous learning, deep adaptability, and ethical alignment. Designed with a modular structure for scalable development and seamless integration within secure Linux environments.
+
 🚀 Features
 
     Autonomous Learning: Continuously adapts and improves through interaction and feedback loops.
